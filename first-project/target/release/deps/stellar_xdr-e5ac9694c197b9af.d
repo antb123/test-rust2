@@ -1,0 +1,11 @@
+/home/yasir/code/test-rust2/first-project/target/release/deps/stellar_xdr-e5ac9694c197b9af.rmeta: /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/lib.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/next.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_conversions.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_validations.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scmap.rs
+
+/home/yasir/code/test-rust2/first-project/target/release/deps/libstellar_xdr-e5ac9694c197b9af.rlib: /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/lib.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/next.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_conversions.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_validations.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scmap.rs
+
+/home/yasir/code/test-rust2/first-project/target/release/deps/stellar_xdr-e5ac9694c197b9af.d: /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/lib.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/next.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_conversions.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_validations.rs /home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scmap.rs
+
+/home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/lib.rs:
+/home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/next.rs:
+/home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_conversions.rs:
+/home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scval_validations.rs:
+/home/yasir/.cargo/registry/src/github.com-1ecc6299db9ec823/stellar-xdr-0.0.1/src/scmap.rs:
